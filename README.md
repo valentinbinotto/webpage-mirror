@@ -33,6 +33,9 @@ Folgende Tools/Skripte aus den Debian-Repositories werden im Skript genutzt:
 - systemctl
 - mv
 
+![Aktivitätsdiagramm](/Medien/Diagramm_Design-webpage-mirror.png)
+
+
 ### Creators
 By Valentin Binotto & Florian Fröbel - 2023
 
